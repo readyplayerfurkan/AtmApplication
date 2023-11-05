@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\bin\Debug\net7.0\AtmApplication.exe
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\bin\Debug\net7.0\AtmApplication.deps.json
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\bin\Debug\net7.0\AtmApplication.runtimeconfig.json
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\bin\Debug\net7.0\AtmApplication.dll
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\bin\Debug\net7.0\AtmApplication.pdb
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\AtmApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\AtmApplication.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\AtmApplication.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\AtmApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\AtmApplication.dll
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\refint\AtmApplication.dll
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\AtmApplication.pdb
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\AtmApplication.genruntimeconfig.cache
+C:\Users\user\RiderProjects\ConsoleApp1\AtmApplication\obj\Debug\net7.0\ref\AtmApplication.dll
